@@ -43,3 +43,6 @@ This repository supports personal brand creators with:
 ## 📝 License & 使用聲明
 這些資源僅供教育用途，請勿未經授權商業使用。若需合作請聯繫 Fyn 團隊。
 
+### 🔁 還有我另一個品牌 Fyntage（客製銀飾）
+→ [點下方連結看情感記憶銀飾品牌 Fyntage ]
+- 💍 Fyntage emotional jewelry project → [fyntage-lms](https://github.com/fyntage-lms)
