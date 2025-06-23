@@ -19,9 +19,10 @@ This repository supports personal brand creators with:
 
 ## 🔗 Skool 社群連結
 
-- 🎁 免費社群｜[奇蹟公園私酷群](https://www.skool.com/miracle-free/about)
-- 🧠 成長社群｜[奇蹟研究所 Miracle Academy](https://www.skool.com/miracle-academy/about)
-- 💼 CEO社群｜[奇蹟CEO](https://www.skool.com/miracle-ceo/about)
+- 🎁 免費社群｜[奇蹟公園私酷群](<https://www.skool.com/miracle-free/about>)
+- 🧠 成長社群｜[奇蹟研究所 Miracle Academy](<https://www.skool.com/miracle-academy/about>)
+- 💼 CEO社群｜[奇蹟CEO](<https://www.skool.com/miracle-ceo/about>)
+
 
 ---
 
@@ -45,4 +46,5 @@ This repository supports personal brand creators with:
 
 ### 🔁 還有我另一個品牌 Fyntage（客製銀飾）
 → [點下方連結看情感記憶銀飾品牌 Fyntage ]
-- 💍 Fyntage emotional jewelry project → [fyntage-lms](https://github.com/fyntage-lms)
+- 💍 Fyntage emotional jewelry project → [fyntage-lms](<https://github.com/fyntage-lms>)
+
