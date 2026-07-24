@@ -13,7 +13,7 @@ AI-ready content prompts & systems for GrowithFyn (IG + Skool Education Hub)
 This repository supports personal brand creators with:
 - Ready-to-use content systems
 - IG + Skool monetization funnels
-- Prompt templates for LLMs (ChatGPT and beyond)
+- Prompt templates for LLMs (ChatGPT, Claude and beyond)
 
 ---
 
@@ -37,7 +37,7 @@ This repository supports personal brand creators with:
 
 - Prompt 範本（Reels、自動回覆、Skool腳本）
 - 系統流程圖（以終為始創作系統、社群引導）
-- 自動化腳本（ManyChat、Zapier）
+- 自動化腳本（Clause Code、ManyChat、Zapier）
 
 ---
 
