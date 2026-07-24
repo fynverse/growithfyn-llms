@@ -20,8 +20,8 @@ This repository supports personal brand creators with:
 ## 🔗 Skool 社群連結
 
 - 🎁 免費社群｜[奇蹟公園私酷群](<https://www.skool.com/miracle-free/about>)
-- 🧠 成長社群｜[奇蹟研究所 Miracle Academy](<https://www.skool.com/miracle-academy/about>)
-- 💼 CEO社群｜[奇蹟CEO](<https://www.skool.com/miracle-ceo/about>)
+- 🧠 成長社群｜[奇蹟研究所 Miracle Academy](<https://www.skool.com/fyn/about>)
+- 💼 CEO社群｜[奇蹟CEO](<https://www.skool.com/miracle/about>)
 
 
 ---
