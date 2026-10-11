@@ -53,11 +53,9 @@ IG ＋ Skool 的完整變現系統。從內容策略、自動私訊成交，到�
 
 ### 🚐 遊牧一家 remoteFAM｜月訂閱制
 
-一人 AI 內容系統。核心是 Remote Editor Kit：把原始影片丟給 Claude，自動剪空白、上雙語字幕、加動態圖卡，剪成有質感的動畫 Reel。
+雇用「一語成林」AI 內容團隊：一段 30 分鐘的錄音，換一整個月的獲客內容。Elsa 帶領 5 位 AI 成員，把題目、腳本、剪片、排程全部接手，你負責講，最後過目。
 
-還有 30 天獲客內容日曆、爆文腳本 Skills、60 秒輪播貼文產生器、ManyChat IG 導流模板，每月新增我親測的 AI 工具。
-
-「把產內容交給 AI 系統，把時間留給家人。」這是我創 remoteFAM 的初衷。
+還有 Remote Editor Kit、獲客腳本＋輪播產生器、ManyChat 導流模板，每月一次 AI 團隊更新。需要一台電腦＋Claude Code 或 Codex。
 
 → https://www.skool.com/remotefam
 

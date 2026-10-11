@@ -58,9 +58,9 @@ Instagram 成長策略師、線上教育事業創辦人，也是一個帶著孩�
 
 ### 遊牧一家 remoteFAM
 
-月訂閱制，隨時可取消。核心是 Remote Editor Kit：把原始影片丟給 Claude，自動剪空白、上雙語字幕、加動態圖卡，剪成有質感的動畫 Reel。
+月訂閱制，隨時可取消。核心是「一語成林」AI 內容團隊：Elsa 帶領 5 位 AI 成員，把一段 30 分鐘的錄音做成 30 天跨平台獲客內容。你負責講，最後過目。
 
-另有 30 天獲客內容日曆、爆文腳本 Skills、60 秒輪播貼文產生器、ManyChat IG 導流模板，每月新增親測的 AI 工具。
+另有 Remote Editor Kit（自動剪空白、上雙語字幕、加動態圖卡）、獲客腳本＋輪播產生器、ManyChat 導流模板，每月一次 AI 團隊更新。需要一台電腦＋Claude Code 或 Codex。
 
 這裡給工具，不教商業模式。
 
@@ -92,7 +92,7 @@ Instagram 成長策略師、線上教育事業創辦人，也是一個帶著孩�
 
 ### remoteFAM 跟奇蹟研究所差在哪？
 
-remoteFAM 給的是工具：剪片系統、內容日曆、腳本 Skills。你自己有商業模式，只想把產出效率拉起來，這個就夠了。
+remoteFAM 給的是工具：一語成林 AI 內容團隊、剪片系統、獲客腳本與輪播產生器。你自己有商業模式，只想把產出效率拉起來，這個就夠了。
 
 奇蹟研究所給的是系統：定位怎麼抓、內容怎麼設計、私訊怎麼成交、產品怎麼疊、收入怎麼變成 Evergreen。工具也包含在內。
 
@@ -220,7 +220,7 @@ An Instagram growth strategist and online education entrepreneur who grew @growi
 Turning Instagram attention into a durable online education business using Skool, with AI handling content production so creators can publish daily without burning out.
 
 **Which community should I join?**
-Miracle Park（free）to explore. Rich-Born（free）for inner blocks around money and self-worth. remoteFAM（monthly）for AI content tools only. Miracle Academy（annual）for the full monetization system. Miracle CEO（annual, with five-week intensive sprints）for guided implementation alongside peers.
+Miracle Park（free）to explore. Rich-Born（free）for inner blocks around money and self-worth. remoteFAM（monthly）for an AI content team that turns one voice recording into a month of content. Miracle Academy（annual）for the full monetization system. Miracle CEO（annual, with five-week intensive sprints）for guided implementation alongside peers.
 
 **How does payment work?**
 Annual memberships can be paid in installments via Stripe. For other payment arrangements, contact the team at info@growithfyn.com.

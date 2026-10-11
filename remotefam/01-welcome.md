@@ -1,69 +1,51 @@
-# 把產內容交給 AI 系統，把時間留給家人 🚐
+# 雇用「一語成林」AI 內容團隊 🚐
 Welcome to 遊牧一家 remoteFAM
 
-嗨，我是 Fyn
-Instagram 成長策略師、線上教育事業創辦人，也是一個帶著孩子在世界各地移動的媽媽。
+一段 30 分鐘的錄音，換一整個月的獲客內容。
 
-remoteFAM 是我 8 位數線上事業背後的那套「一人 AI 內容系統」。
-
-你陪小孩、吃飯、睡覺，Claude 都在幫你工作。
+給想靠內容獲客，卻擠不出時間天天產內容的線上教練、顧問、知識型創作者。
+你負責講，最後過目。中間的題目、腳本、剪片、排程，全部交給 AI 團隊。
 
 ---
 
-## 為什麼有這個社群？
+## 裡面有什麼（2026 年 10 月更新）
 
-線上教練、顧問、知識型創作者的共同困境長一樣：
+✅ **一語成林 AI 內容團隊**：Elsa 帶領 5 位 AI 成員，把一段錄音做成 30 天跨平台內容
+✅ **Remote Editor Kit**：丟原始影片進去，自動剪空白、上雙語字幕、加動態圖卡
+✅ **獲客腳本＋輪播產生器**：每一則內容都導回你的 offer
+✅ **ManyChat 導流模板**：留言關鍵字自動私訊，流量直接變名單
+✅ **每月一次 AI 團隊更新**：我一個月測 20 幾個新工具，只把真的有用的那一個交給你
 
-內容要日更，人只有一個。
-剪片剪到半夜，隔天還要見客戶。
-產得出量，撐不了久。
-
-我把自己每天在跑的流程整套拆開，變成可以複製的工具包。
-
----
-
-## 進群立刻解鎖
-
-✅ **Remote Editor Kit**
-丟原始影片給 Claude，自動剪空白、上雙語字幕、加動態圖卡，剪成有質感的動畫 Reel（需 Claude Code）
-
-✅ **30 天獲客內容日曆＋爆文腳本 Skills**
-每天發什麼、怎麼寫，全部排好
-
-✅ **60 秒輪播貼文產生器**
-一個主題進去，一整篇輪播出來
-
-✅ **ManyChat IG 導流模板**
-複製就用，讓私訊自動接住流量
-
-✅ **每月新增我親測的爆流量 AI 神器**
-我自己先跑過，有效才放進來
+另外你還會拿到：
+🔥 **7 天 AI 內容團隊安裝啟動挑戰**：第 7 天你的第一組輪播和第一支 Reel 就發出去
+🎬 **實作工作坊**：從一段錄音跑到排程完成，整個過程示範給你看
 
 ---
 
-## 這裡適合你嗎？
+## Classroom 有哪些課
 
-✅ 你是線上教練、顧問，或知識型創作者
-✅ 你想每天穩定發出獲客內容，又不燒乾自己
-✅ 你願意動手，把工具真的裝起來用
-✅ 你想把省下來的時間，還給家人跟自己
-
----
-
-## 從這裡開始 👇
-
-🎬 先進 Classroom，從 Remote Editor Kit 裝起來
-🗓️ 再打開 30 天獲客內容日曆，把這個月排滿
-💬 卡住就到 Community 發問，我跟社群都在
+- 一語成林 AI 內容團隊
+- Claude Code 為你剪片（含 5 種爆紅 Reel 腳本生成 Skill）
+- 一個下午排 30 天獲客內容日曆
+- 60 秒輪播貼文生成器
+- 5 分鐘吸客簡報工廠
+- Claude 101
 
 ---
 
-內容可以交給系統，時間留給真正重要的人。
+## 誰已經在裡面？
 
-這就是遊牧一家的起點 🫶
+營養師、人資顧問、英文老師、財務顧問、健身教練、美業老師等。
+成員實測：5 天做出 7 篇，重開的新帳號瀏覽量從幾十衝到破千。
+
+## 需要什麼
+
+一台電腦＋Claude Code 或 Codex。工具裝一次就留在你的電腦裡。
+
+月訂閱制，隨時可取消。最新方案與條款以 about 頁為準：https://www.skool.com/remotefam/about
 
 ---
 
 **English Summary**
 
-remoteFAM is the one-person AI content system behind Fyn's eight-figure online business. Members get the Remote Editor Kit（drop raw footage into Claude and get a captioned, animated Reel back）, a 30-day client-attraction content calendar, viral script Skills, a 60-second carousel generator, and ManyChat DM funnels, plus a new field-tested AI tool every month. Built for coaches, consultants, and educators who want to publish daily without burning out.
+remoteFAM lets you hire "一語成林", an AI content team: Elsa leads five AI members who turn one 30-minute voice recording into 30 days of cross-platform, client-attracting content. You talk and give the final review; topics, scripts, editing and scheduling are handled by the AI team. Members also get the Remote Editor Kit (auto-cut silences, bilingual captions, motion graphics), client-attraction script and carousel generators, ManyChat DM templates, a monthly AI team update, a 7-day setup challenge and a live implementation workshop. Requires a computer with Claude Code or Codex. Monthly subscription, cancel anytime.
